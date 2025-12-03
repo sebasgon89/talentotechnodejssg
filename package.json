@@ -1,0 +1,29 @@
+{
+  "name": "entrega-final",
+  "version": "1.0.0",
+  "description": "Final project of the Talento Tech course of Node.js",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sebasgon89/talentotechnodejssg.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sebasgon89/talentotechnodejssg/issues"
+  },
+  "homepage": "https://github.com/sebasgon89/talentotechnodejssg#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1",
+    "firebase": "^12.6.0",
+    "jsonwebtoken": "^9.0.2"
+  }
+}
